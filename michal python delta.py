@@ -12,7 +12,7 @@ if a==0:
     elif c!=0:
         print("Brak rozwiazania")
     elif c==0:
-        print("Równnanie ma nieskonczenie wiele rozwiazan")                       
+        print("Równanie ma nieskonczenie wiele rozwiazan")                       
 else:
     print("Równanie  kwadratowe")
     d=b*b-4*a*c
